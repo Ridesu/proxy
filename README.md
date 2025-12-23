@@ -100,7 +100,7 @@ These concepts are fundamental for network engineering, debugging, and cybersecu
 This proxy is intended for learning and experimentation in controlled environments.
 Intercepting network traffic without permission is unethical and illegal.
 
-# Use this project only on systems and networks you own or are authorized to test.
+### Use this project only on systems and networks you own or are authorized to test.
 
 ## 👤 Author
 
